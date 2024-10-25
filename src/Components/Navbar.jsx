@@ -17,7 +17,7 @@ function Navbar() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div className="navbar-nav">
+          <div className="navbar-nav bg-red text-white">
             <Link to="/" className="nav-link active text-link-hover" aria-current="page" id='Nav'>Home</Link>
             <Link to="/about" className="nav-link"id='Nav'>About</Link>
             <Link to="/skills" className="nav-link"id='Nav'>Skills</Link>
