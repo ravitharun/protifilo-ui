@@ -1,0 +1,72 @@
+   { 
+        id: "1",
+        Project_tittle: "Calculator",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150", // Placeholder image
+        Project_desc: "A simple calculator built using React.",
+        Project_Technologies: "React",
+        Project_Githubrepo: "https://github.com/ravitharun/FULLSTACKPROJECT/tree/main/calculator"
+      },
+      {
+        id: "2",
+        Project_tittle: "Weather App",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A weather app that shows current weather data using an external API.",
+        Project_Technologies: "React, API",
+        Project_Githubrepo: "https://github.com/example/weather-app"
+      },
+      {
+        id: "3",
+        Project_tittle: "Blog App",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A blog app with CRUD functionalities built using React and Firebase.",
+        Project_Technologies: "React, Firebase",
+        Project_Githubrepo: "https://github.com/example/blog-app"
+      },
+      {
+        id: "4",
+        Project_tittle: "Todo App",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A to-do list app with full CRUD functionalities using React and Firebase.",
+        Project_Technologies: "React, Firebase",
+        Project_Githubrepo: "https://github.com/example/todo-app"
+      },
+      {
+        id: "5",
+        Project_tittle: "Spotify App",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A Spotify-inspired music streaming app.",
+        Project_Technologies: "React, Firebase",
+        Project_Githubrepo: "https://github.com/example/spotify-app"
+      },
+      {
+        id: "6",
+        Project_tittle: "E-commerce Website",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "An e-commerce website with cart, product pages, and payment integration.",
+        Project_Technologies: "React, Firebase",
+        Project_Githubrepo: "https://github.com/example/e-commerce-website"
+      },
+      {
+        id: "7",
+        Project_tittle: "Chat App",
+        Project_live_link: "",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A real-time chat application using WebSocket and React.",
+        Project_Technologies: "React, Firebase, WebSocket",
+        Project_Githubrepo: "https://github.com/example/chat-app"
+      },
+      {
+        id: "8",
+        Project_tittle: "Github Repo Finder",
+        Project_live_link: "https://wonderful-pixie-06f7cf.netlify.app/",
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A GitHub repository finder with search functionality.",
+        Project_Technologies: "React, GitHub API",
+        Project_Githubrepo: "https://github.com/example/github-repo-finder"
+      },

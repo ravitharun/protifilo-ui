@@ -1,0 +1,48 @@
+.project-img-container {
+  position: relative;
+}
+.card {
+  height: 70vh;
+}
+#nav:hover{color: red;}
+/* Add a hover effect to all nav-links */
+.nav-link {
+  color: #000; /* Initial color */
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+/* Hover state */
+.nav-link:hover {
+  color: #007bff; /* Change color on hover */
+/* Add underline on hover */
+}
+
+/* If you want to add a hover effect specifically for the custom class */
+.text-link-hover:hover {
+  color: #ff5722; /* Example: change to a different color on hover */
+  text-decoration: none; /* Example: no underline on hover */
+}
+
+.hover-icons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  gap: 10px;
+}
+
+.project-card:hover .hover-icons {
+  display: flex;
+}
+
+.icon-link {
+  background-color: white;
+  padding: 8px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.icon-link:hover {
+  background-color: #f0f0f0;
+}
