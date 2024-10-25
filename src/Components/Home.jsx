@@ -17,7 +17,7 @@ function Home() {
         style={{
           position: "relative",
           overflow: "hidden",
-          background: "linear-gradient(to right, #f7e89a, white)", // Apply gradient background from gold to white
+          background: "linear-gradient(to right, #f7f89a, white)", // Apply gradient background from gold to white
           height: "100vh", // Set height to full viewport height
           display: "flex", // Use flexbox for centering content
           justifyContent: "center", // Center content horizontally
@@ -31,7 +31,7 @@ function Home() {
                 <div className="p-3">
                   <h1 className="display-4">Welcome to Protifilo!</h1>
                   <p className="lead">
-                    I’m <b className="text-primary">Ravi Tharun</b>, dedicated to empowering your growth
+                    I’m <b className="text-danger">Ravi Tharun</b>, dedicated to empowering your growth
                     in UI/UX design and frontend full-stack development.
                   </p>
                   <a href="">
