@@ -15,7 +15,7 @@ function Projects() {
       { 
         id: "1",
         Project_tittle: "Calculator",
-        Project_live_link: "1", // Empty string for live link
+        Project_live_link: "https://bespoke-starship-58bc1c.netlify.app/", // Empty string for live link
         project_img: "https://via.placeholder.com/150",
         Project_desc: "A simple calculator built using React.",
         Project_Technologies: "React",
@@ -31,7 +31,7 @@ function Projects() {
         Project_Githubrepo: "https://github.com/example/weather-app"
       },
       {
-        id: "8",
+        id: "3",
         Project_tittle: "Github Repo Finder",
         Project_live_link: "https://wonderful-pixie-06f7cf.netlify.app/", // Valid link
         project_img: "https://via.placeholder.com/150",
@@ -39,7 +39,24 @@ function Projects() {
         Project_Technologies: "React, GitHub API",
         Project_Githubrepo: "https://github.com/example/github-repo-finder"
       },
-      // More projects...
+      {
+        id: "4",
+        Project_tittle: "Todo Application",
+        Project_live_link: "https://friendly-conkies-e76088.netlify.app/", // Valid link
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "A Todo Application Where We can Add Todo And find with search functionality. And Edit And Delete them",
+        Project_Technologies: "React",
+        Project_Githubrepo: "https://github.com/example/github-repo-finder"
+      },
+      {
+        id: "5",
+        Project_tittle: "Recipe Finder",
+        Project_live_link: "https://unrivaled-valkyrie-7cfde5.netlify.app/", // Valid link
+        project_img: "https://via.placeholder.com/150",
+        Project_desc: "updating soon",
+        Project_Technologies: "React",
+        Project_Githubrepo: "https://github.com/example/github-repo-finder"
+      },
     ];
 
     setProjects(projects);
